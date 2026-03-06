@@ -16,3 +16,9 @@ El objetivo es resolver la fragmentación de datos en plantas industriales media
 
 ## Enfoque GRC (Governance, Risk & Compliance)
 A diferencia de un modelo técnico estándar, esta arquitectura incluye dimensiones de **Cumplimiento Normativo (NOM-STPS)** y **Gestión de Riesgos Legales**, integrando mi formación dual en Ingeniería y Derecho.
+
+Componentes del Sistema
+- **Backend:** PostgreSQL para el almacenamiento persistente y normalizado.
+- **Simulación:** Script en Python que genera telemetría industrial (sensores y energía) en tiempo real.
+- **Frontend Operativo:** Dashboard interactivo en **Streamlit** para visualización inmediata de KPIs en planta.
+- **Análisis Estratégico:** Reportes en Power BI para el cálculo del Costo Real por Pieza.
